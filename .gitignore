@@ -1,0 +1,10 @@
+saves
+.mixin.out
+logs
+journeymap
+screenshots
+config.json
+manifest.json
+usercache.json
+usernamecache.json
+crash-reports
